@@ -39,6 +39,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		326722D62AFB5AAD0095AEB5 /* Support */ = {
+			isa = PBXGroup;
+			children = (
+				3295A8202AEE09790024BF1B /* AppDelegate.swift */,
+				3295A8222AEE09790024BF1B /* SceneDelegate.swift */,
+			);
+			path = Support;
+			sourceTree = "<group>";
+		};
 		3295A8142AEE09780024BF1B = {
 			isa = PBXGroup;
 			children = (
@@ -58,8 +67,7 @@
 		3295A81F2AEE09790024BF1B /* Assignment_13 */ = {
 			isa = PBXGroup;
 			children = (
-				3295A8202AEE09790024BF1B /* AppDelegate.swift */,
-				3295A8222AEE09790024BF1B /* SceneDelegate.swift */,
+				326722D62AFB5AAD0095AEB5 /* Support */,
 				3297CBA92AEF5D470011B3A2 /* MainViewController.swift */,
 				32538B592AEF7026008A1596 /* Song.swift */,
 				325314442AEF5FF600F08C25 /* ItemDetailsViewController.swift */,
