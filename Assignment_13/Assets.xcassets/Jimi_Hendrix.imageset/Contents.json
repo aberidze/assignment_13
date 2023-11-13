@@ -1,15 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "arctic monkeys.png",
+      "filename" : "Jimi_Hendrix@1x.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "Jimi_Hendrix@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
+      "filename" : "Jimi_Hendrix@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
